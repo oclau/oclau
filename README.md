@@ -17,9 +17,10 @@
 ## 🧪 Projekty - upublicznione
 - 🐱 miniTamagotchi_TTGO
 - 🔍 Czytnik kodów kreskowych
-- 🎮 Gra edukacyjna w Godot do nauki MySQL (na razie jest ustawione na prywatne, gdyż projekt jest stale ulepszany. W grudniu jest planowanane ukończenie oraz upublicznienie)
+  <br>
+*** 🎮 Gra edukacyjna w Godot do nauki MySQL (na razie jest ustawione na prywatne, gdyż projekt jest stale ulepszany. W grudniu jest planowanane ukończenie oraz upublicznienie)
 
-### ⚡ Fun fact: bardzo lubię koty :)
+##### ⚡ Fun fact: bardzo lubię koty :)
 
 <!--
 **oclau/oclau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
