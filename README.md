@@ -10,7 +10,7 @@
 🎮- dużym: interaktywną grą 3D w Godot do nauki MySQL
 
 ## 💡 Technologie, których używam
-- Python, Godot, MySQL, JavaScript, HTML, PHP, css, C/C++ 
+- Python, Godot, MySQL, JavaScript, HTML, PHP, CSS, C/C++ 
 - ostatnio zaczęłam przygodę z: ESP32, Arduino, TTGO
 
 
