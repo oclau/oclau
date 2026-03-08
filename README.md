@@ -12,13 +12,14 @@
 ## 💡 Technologie, których używam
 - Python, Godot, MySQL, JavaScript, HTML, PHP, CSS, C/C++ 
 - ostatnio zaczęłam przygodę z: ESP32, Arduino, TTGO
+- złapałam zajawkę na tworzenie gier komputerowych
 
 
 ## 🧪 Projekty - upublicznione
 - 🐱 miniTamagotchi_TTGO
 - 🔍 Czytnik kodów kreskowych
   <br>
-*** 🎮 Gra edukacyjna w Godot do nauki MySQL (na razie jest ustawione na prywatne, gdyż jest to projekt inżynierski)
+- 🎮 Gra edukacyjna w Godot do nauki MySQL (na razie jest ustawione na prywatne, gdyż jest to projekt inżynierski)
 
 ##### ⚡ Fun fact: bardzo lubię koty :)
 
