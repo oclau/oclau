@@ -7,7 +7,7 @@
  Aktualnie pracuję nad projektem:
  
 🐾- małym: grą Tamagotchi  
-🎮- dużym: interaktywną grą 3D w Godot do nauki MySQL
+🎮- dużym: Mobilna aplikacja wspierająca kontrolę dystrybucji leków w opiece szpitalnej
 
 ## 💡 Technologie, których używam
 - Python, Godot, MySQL, JavaScript, HTML, PHP, CSS, C/C++ 
@@ -18,7 +18,7 @@
 - 🐱 miniTamagotchi_TTGO
 - 🔍 Czytnik kodów kreskowych
   <br>
-*** 🎮 Gra edukacyjna w Godot do nauki MySQL (na razie jest ustawione na prywatne, gdyż projekt jest stale ulepszany. W grudniu jest planowanane ukończenie oraz upublicznienie)
+*** 🎮 Gra edukacyjna w Godot do nauki MySQL (na razie jest ustawione na prywatne, gdyż jest to projekt inżynierski)
 
 ##### ⚡ Fun fact: bardzo lubię koty :)
 
