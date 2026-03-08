@@ -11,7 +11,7 @@
 
 ## 💡 Technologie, których używam
 - Python, Godot, MySQL, JavaScript, HTML, PHP, CSS, C/C++ 
-- ostatnio zaczęłam przygodę z: ESP32, Arduino, TTGO
+- zaczęłam przygodę z: ESP32, Arduino, TTGO
 - złapałam zajawkę na tworzenie gier komputerowych
 
 
